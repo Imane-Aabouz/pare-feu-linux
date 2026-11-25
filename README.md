@@ -5,6 +5,7 @@ Mise en place d'un pare-feu **firewalld** sur un serveur **Red Hat** selon une p
 Projet réalisé dans le cadre du Master *Cryptographie et Sécurité de l'Information* (Faculté des Sciences, Université Mohammed V de Rabat), année universitaire 2025/2026.
 
 **Auteurs :** Imane Aabouz, Hajar Gasmi
+
 **Encadrant :** Mr Khalid Zinedine
 
 ---
